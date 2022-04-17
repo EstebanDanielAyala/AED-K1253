@@ -1,6 +1,6 @@
 # AED-K1253
 #Algoritmos y Estructuras de Datos
-• Curso
+- Curso
 • Año de cursada, y cuatrimestre si corresponde.
 • Legajo.
 • Apellido.

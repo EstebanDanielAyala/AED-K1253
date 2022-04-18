@@ -6,6 +6,6 @@
 ## Legajo.
 - 203.388-4
 ## Apellido. 
--Ayala
+- Ayala
 ## Nombre.
--Esteban Daniel
+- Esteban Daniel
